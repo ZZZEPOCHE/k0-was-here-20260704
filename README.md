@@ -8,3 +8,6 @@
   ],
   "access_right": "open"
 }
+
+Releases
+DOI: 10.5281/zenodo.21199189
